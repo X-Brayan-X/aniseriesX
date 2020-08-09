@@ -1,0 +1,93 @@
+.backgroup{
+    background-color: black;
+}
+#post-wrapper {
+    position: relative;
+    background: TRANSPARENT;
+    color: #404040;
+    float: left;
+    width: 100%;
+    margin: auto;
+    padding: 0 20px;
+}
+#post-wrapper {
+    float: left;
+    width: 69%;
+    padding: 0;
+}
+.post{
+    width: 69%;
+    float: left;
+    position: relative;
+    padding-right:20px;
+    background: transparent;
+    margin: auto;
+
+}
+.sidebar{
+    float: right;
+    width: 24.6%;
+    opacity: 1;
+    visibility: visible;
+    height: initial;
+}
+.borde{
+    padding: left 100px;
+    color: #ffffff;
+}
+.caratula{
+    float: right;
+    width: 25%;
+}
+.flecha-l{
+    left: 15%;
+}
+.flecha-r{
+    right: 15%;
+}
+.mlogin{
+    margin-left: 20%;
+    margin-right: 20%;
+}
+.bg-color{
+    background: cornflowerblue;
+}
+.contenedor{
+    width: 100%;
+    padding-right: 15px;
+    margin-right: auto;
+    margin-left: auto;
+}
+.luz:hover{
+    background: darkkhaki;
+}
+.panel-admin{
+    background-color: darkseagreen;
+    padding: 20px;
+    border-radius: 3px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+.list-panel{
+    list-style: none;
+    padding: 0px;
+}
+.list-panel a{
+    font-size: 40px;
+}
+.list-panel a:hover{
+    font-size: 40px;
+    color: greenyellow;
+}
+.list-panel-item{
+    display: inline-block;
+}
+.list-panel-item i:hover{
+    color: crimson;
+}
+.list-action-panel{
+    padding: 10px;
+}
+.list-action-panel:hover{
+    background: grey;
+}
